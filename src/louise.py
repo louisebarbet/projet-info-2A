@@ -1,1 +1,6 @@
-git@github.com:louisebarbet/projet-info-2A.git
+a, b = 0, 5
+
+for i in range(b):
+    print(" " * a, end="")
+    a += 1
+    print("Bonjour le L")
